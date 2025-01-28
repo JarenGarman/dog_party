@@ -12,3 +12,17 @@ header {
   justify-content: space-between;
   align-items: center;
 }
+.logo {
+  height: 50px;
+}
+.nav-list {
+  list-style-type: none;
+  display: flex;
+  gap: 20px;
+}
+
+li a {
+  text-decoration: none;
+  color: #000000;
+  font-weight: bold;
+}
