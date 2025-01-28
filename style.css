@@ -61,7 +61,7 @@ li a {
   text-align: center;
 }
 .dog-info img {
-  border: solid #4B869F;
+  border: solid #4b869f;
   border-radius: 50%;
   width: 150px;
   height: 150px;
@@ -80,4 +80,19 @@ li a {
   color: #ffffff;
   border: none;
   cursor: pointer;
+}
+footer {
+  background-color: #548ba4;
+  text-align: center;
+  color: white;
+  padding: 35px;
+  align-items: center;
+}
+footer p {
+  margin-bottom: 3%;
+}
+.social-icons {
+  display: flex;
+  gap: 20px;
+  justify-content: center;
 }
