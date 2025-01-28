@@ -20,7 +20,6 @@ header {
   display: flex;
   gap: 20px;
 }
-
 li a {
   text-decoration: none;
   color: #000000;
@@ -33,23 +32,19 @@ li a {
   background-size: cover;
   color: #ffffff;
 }
-
 .hero h1 {
   font-size: 2.5em;
 }
-
 .hero img {
   border-radius: 50%;
   margin: 20px 0;
 }
-
 .hero form {
   display: flex;
   flex-direction: column;
   align-items: center;
   gap: 10px;
 }
-
 .hero button {
   padding: 10px 20px;
   background-color: #75e2e6;
