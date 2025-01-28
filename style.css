@@ -30,7 +30,7 @@ li a {
 .hero {
   text-align: center;
   padding: 50px 20px;
-  background-image: url("assets/park.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, .2), rgba(0, 0, 0, 0.2)), url("assets/park.jpg");
   background-size: cover;
   color: #ffffff;
 }
