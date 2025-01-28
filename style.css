@@ -29,7 +29,7 @@ li a {
 .hero {
   text-align: center;
   padding: 50px 20px;
-  background: #048eaa;
+  background-image: url("assets/park.jpg");
   background-size: cover;
   color: #ffffff;
 }
