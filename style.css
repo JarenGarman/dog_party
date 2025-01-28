@@ -78,6 +78,7 @@ li a {
 .dog-info p {
   font-size: 1em;
   margin: 10px 0;
+  min-height: 40%;
 }
 .dog-info button {
   padding: 10px 20px;
