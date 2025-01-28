@@ -63,7 +63,7 @@ li a {
   background-color: #f0f0f0;
 }
 .dog-info {
-  text-align: center;
+  margin: 0 6%;
 }
 .dog-info img {
   border: solid #4b869f;
@@ -85,6 +85,7 @@ li a {
   color: #ffffff;
   border: none;
   cursor: pointer;
+  width: 100%;
 }
 footer {
   background-color: #548ba4;
