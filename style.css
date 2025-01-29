@@ -50,14 +50,15 @@ li a {
   flex-direction: column;
   align-items: center;
   gap: 10px;
-  width: 250px;
+  width: 300px;
+  margin: auto;
 }
 .hero label {
   text-align: left;
   width: 100%;
 }
 .hero input {
-  width: 97.5%;
+  width: 98%;
 }
 .hero button {
   padding: 10px 20px;
